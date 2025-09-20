@@ -1,0 +1,7 @@
+streamlit
+cv2
+numpy
+torch
+ultralytics
+YOLO
+PIL
