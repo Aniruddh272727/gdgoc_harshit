@@ -1,5 +1,5 @@
 streamlit
-open cv2
+opencv2
 numpy
 torch
 ultralytics
